@@ -1,39 +1,3 @@
-<style>
-  body {
-    background-color: #0d1117;   /* GitHub dark background */
-    color: #c9d1d9;              /* GitHub dark text color */
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    line-height: 1.6;
-    padding: 20px;
-  }
-
-  h1, h2, h3, h4 {
-    color: #58a6ff;
-  }
-
-  a {
-    color: #79c0ff;
-  }
-
-  .project-card {
-    background-color: #161b22;
-    padding: 16px;
-    border-radius: 8px;
-    border: 1px solid #30363d;
-    margin-bottom: 20px;
-  }
-
-  .project-card:hover {
-    border-color: #58a6ff;
-  }
-
-  hr {
-    border: 0;
-    border-top: 1px solid #30363d;
-    margin: 30px 0;
-  }
-</style>
-
 # Lucas Johnson
 ### Developer • Problem Solver • Creator
 
@@ -51,8 +15,6 @@ with others as a team.
 
 ## Featured Projects
 
-<div class="project-card">
-
 ### **1. Connect Four in Godot**
 
 This was my first attempt at developing a game, and my first time using Godot.
@@ -63,9 +25,7 @@ within a game engine, and the math behind movement in two dimensions.
 
 **Code:** [View on GitHub](https://github.com/RainbowTrout17/connect-4)
 
-</div>
 
-<div class="project-card">
 
 ### **2. ToroLearn**
 
@@ -76,8 +36,6 @@ and using the sequelize ORM to store the courses, lessons, and tests in an SQLit
 **Tech:** Javascript, React, Vite, Express, Multer, Sequelize, SQLite, API Development
 
 **Code:** [View on GitHub](https://github.com/RainbowTrout17/CWEBFinal)
-
-</div>
 
 ---
 
@@ -103,3 +61,27 @@ Below is a list of skills and technologies I am comfortable working in!
 
 ### Thanks for visiting!
 
+
+<style>
+  body {
+    background-color: #0d1117;   /* GitHub dark background */
+    color: #c9d1d9;              /* GitHub dark text color */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+  }
+
+  h1, h2, h3, h4 {
+    color: #58a6ff;
+  }
+
+  a {
+    color: #79c0ff;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px solid #30363d;
+    margin: 30px 0;
+  }
+</style>
