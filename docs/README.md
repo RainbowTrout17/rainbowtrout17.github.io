@@ -34,66 +34,72 @@
   }
 </style>
 
-# 👋 Hi, I'm *Your Name*
-### 💻 Developer • Problem Solver • Creator
-
-Welcome to my dark-themed portfolio!  
-Below are some of the projects I’ve built and worked on.
+# Lucas Johnson
+### Developer • Problem Solver • Creator
 
 ---
 
-## 🚀 Featured Projects
+## About Me
+
+I am a student in the Computer Systems Technology program at Saskatchewan Polytechnic. 
+I have a deep passion for all things computer related,
+especially solving issues and creating programs to solve unique problems!
+My main skills include programming, troubleshooting hardware and software, and working 
+with others as a team.
+
+---
+
+## Featured Projects
 
 <div class="project-card">
 
-### **1. Project Name #1**
-A short one-sentence overview of what the project does.  
-**Tech:** JavaScript, HTML/CSS, Node.js  
-🔗 **Demo:** https://your-demo-link  
-📦 **Code:** [View on GitHub](https://github.com/yourusername/project1)
+### **1. Connect Four in Godot**
+
+This was my first attempt at developing a game, and my first time using Godot.
+For this project, I learnt and applied skills related to game development, programming
+within a game engine, and the math behind movement in two dimensions.
+
+**Tech:** GDScript, Godot
+
+**Code:** [View on GitHub](https://github.com/RainbowTrout17/connect-4)
 
 </div>
 
 <div class="project-card">
 
-### **2. Project Name #2**
-A brief description highlighting the purpose or problem solved.  
-**Tech:** Python, Flask, SQLite  
-🔗 **Demo:** https://your-demo-link  
-📦 **Code:** [View on GitHub](https://github.com/yourusername/project2)
+### **2. ToroLearn**
 
-</div>
+This is a full stack React Project for a online learning platform I titled ToroLearn! Users
+can log in, create courses, lessons, and tests, all of which are sent to an api written with express
+and using the sequelize ORM to store the courses, lessons, and tests in an SQLite file.
 
-<div class="project-card">
+**Tech:** Javascript, React, Vite, Express, Multer, Sequelize, SQLite, API Development
 
-### **3. Project Name #3**
-Explain what makes this project interesting—performance, UI, or problem solved.  
-**Tech:** Java, React Native  
-🔗 **Demo:** https://your-demo-link  
-📦 **Code:** [View on GitHub](https://github.com/yourusername/project3)
+**Code:** [View on GitHub](https://github.com/RainbowTrout17/CWEBFinal)
 
 </div>
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
-- **Languages:** JavaScript, Python, Java, C#, SQL
-- **Frontend:** React, HTML5, CSS3, Tailwind, SASS
-- **Backend:** Node.js, Express, Flask, Django
-- **Databases:** PostgreSQL, MongoDB, SQLite
-- **Tools:** Git, Docker, Linux, GitHub Actions
-- **Other:** REST APIs, Unit Testing, CI/CD, Cloud Services
+Below is a list of skills and technologies I am comfortable working in!
 
----
-
-## 📫 Contact Me
-
-- **Email:** your@email.com
-- **LinkedIn:** https://www.linkedin.com/in/yourprofile
-- **GitHub:** https://github.com/yourusername
+- **Languages:** JavaScript, Java, C#, SQL
+- **Frontend:** React, HTML5, CSS3, Tailwind, Bootstrap
+- **Backend:** Node.js, Express
+- **Databases:** SQLite, Sequelize, MySQL
+- **Tools:** Git, Docker
+- **Other:** REST APIs, Unit Testing
 
 ---
 
-### 🌟 Thanks for visiting!
+## Contact Me
+
+- **Email:** johnson3514@saskpolytech.ca
+- **GitHub:** https://github.com/RainbowTrout17
+
+---
+
+### Thanks for visiting!
 
