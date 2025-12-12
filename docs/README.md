@@ -1,12 +1,50 @@
+<style>
+  body {
+    background-color: #0d1117;   /* GitHub dark background */
+    color: #c9d1d9;              /* GitHub dark text color */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+  }
+
+  h1, h2, h3, h4 {
+    color: #58a6ff;
+  }
+
+  a {
+    color: #79c0ff;
+  }
+
+  .project-card {
+    background-color: #161b22;
+    padding: 16px;
+    border-radius: 8px;
+    border: 1px solid #30363d;
+    margin-bottom: 20px;
+  }
+
+  .project-card:hover {
+    border-color: #58a6ff;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px solid #30363d;
+    margin: 30px 0;
+  }
+</style>
+
 # 👋 Hi, I'm *Your Name*
 ### 💻 Developer • Problem Solver • Creator
 
-Welcome to my portfolio!  
-Here you'll find a collection of my development projects, ranging from web apps to tools, experiments, and open-source contributions.
+Welcome to my dark-themed portfolio!  
+Below are some of the projects I’ve built and worked on.
 
 ---
 
 ## 🚀 Featured Projects
+
+<div class="project-card">
 
 ### **1. Project Name #1**
 A short one-sentence overview of what the project does.  
@@ -14,7 +52,9 @@ A short one-sentence overview of what the project does.
 🔗 **Demo:** https://your-demo-link  
 📦 **Code:** [View on GitHub](https://github.com/yourusername/project1)
 
----
+</div>
+
+<div class="project-card">
 
 ### **2. Project Name #2**
 A brief description highlighting the purpose or problem solved.  
@@ -22,13 +62,17 @@ A brief description highlighting the purpose or problem solved.
 🔗 **Demo:** https://your-demo-link  
 📦 **Code:** [View on GitHub](https://github.com/yourusername/project2)
 
----
+</div>
+
+<div class="project-card">
 
 ### **3. Project Name #3**
-Explain what makes this project interesting—performance, UI, problem-solving, etc.  
+Explain what makes this project interesting—performance, UI, or problem solved.  
 **Tech:** Java, React Native  
 🔗 **Demo:** https://your-demo-link  
 📦 **Code:** [View on GitHub](https://github.com/yourusername/project3)
+
+</div>
 
 ---
 
@@ -45,8 +89,6 @@ Explain what makes this project interesting—performance, UI, problem-solving, 
 
 ## 📫 Contact Me
 
-If you’d like to collaborate, discuss opportunities, or talk about any of my projects, feel free to reach out:
-
 - **Email:** your@email.com
 - **LinkedIn:** https://www.linkedin.com/in/yourprofile
 - **GitHub:** https://github.com/yourusername
@@ -55,5 +97,3 @@ If you’d like to collaborate, discuss opportunities, or talk about any of my p
 
 ### 🌟 Thanks for visiting!
 
-Feel free to explore the repositories listed above or check out my other work on GitHub.
-> _This site is generated automatically using GitHub Pages from the `/docs` folder._
